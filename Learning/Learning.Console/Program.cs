@@ -10,11 +10,8 @@ namespace Learning.Console
     {
         static void Main(string[] args)
         {
-			//Console.Write
+			
         }
-		  static void Test()
-        {
-			//Console.Write
-        }
+	
     }
 }
