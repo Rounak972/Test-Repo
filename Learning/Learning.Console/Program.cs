@@ -12,5 +12,9 @@ namespace Learning.Console
         {
 			//Console.Write
         }
+		  static void Test()
+        {
+			//Console.Write
+        }
     }
 }
